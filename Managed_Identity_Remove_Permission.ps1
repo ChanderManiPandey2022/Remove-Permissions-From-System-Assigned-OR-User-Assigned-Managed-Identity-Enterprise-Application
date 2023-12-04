@@ -1,4 +1,3 @@
-﻿﻿ 
 #NOTES
 #Onjuective:      Script to used to Remove Permissio in Managed Identity application
 #Version:         1.0
